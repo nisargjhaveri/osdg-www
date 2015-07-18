@@ -117,7 +117,11 @@ p {
 
 <div id="container">
 </div>
+<<<<<<< HEAD
 <div id="footer"><a href="http://mrinaldhar.com">Designed by Mrinal Dhar</a> &bull; &copy; OSDG : IIIT-Hyderabad &bull; <a href="https://github.com/OSDG-IIITH/www">Contribute to this website!</a></div>
+=======
+<div id="footer"><a href="http://mrinaldhar.com">Designed by Mrinal Dhar</a></div>
+>>>>>>> b1af379... Mrinal changes, added them manually cause someone didn't open a PR :P
 </body>
 <script src="./js/jquery.js"></script>
 <script src="./js/jqueryui.js"></script>
